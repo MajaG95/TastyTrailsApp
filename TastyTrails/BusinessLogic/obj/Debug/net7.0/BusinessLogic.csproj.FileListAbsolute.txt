@@ -1,0 +1,15 @@
+D:\TastyTrails\BusinessLogic\obj\Debug\net7.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\TastyTrails\BusinessLogic\obj\Debug\net7.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\TastyTrails\BusinessLogic\obj\Debug\net7.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\TastyTrails\BusinessLogic\obj\Debug\net7.0\BusinessLogic.AssemblyInfo.cs
+D:\TastyTrails\BusinessLogic\obj\Debug\net7.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\TastyTrails\BusinessLogic\bin\Debug\net7.0\BusinessLogic.deps.json
+D:\TastyTrails\BusinessLogic\bin\Debug\net7.0\BusinessLogic.dll
+D:\TastyTrails\BusinessLogic\bin\Debug\net7.0\BusinessLogic.pdb
+D:\TastyTrails\BusinessLogic\bin\Debug\net7.0\Domain.dll
+D:\TastyTrails\BusinessLogic\bin\Debug\net7.0\Domain.pdb
+D:\TastyTrails\BusinessLogic\obj\Debug\net7.0\BusinessLogic.csproj.CopyComplete
+D:\TastyTrails\BusinessLogic\obj\Debug\net7.0\BusinessLogic.dll
+D:\TastyTrails\BusinessLogic\obj\Debug\net7.0\refint\BusinessLogic.dll
+D:\TastyTrails\BusinessLogic\obj\Debug\net7.0\BusinessLogic.pdb
+D:\TastyTrails\BusinessLogic\obj\Debug\net7.0\ref\BusinessLogic.dll
